@@ -1,0 +1,7 @@
+IF_PAA
+MUL
+OPP_HAND
+20
+61
+58
+45

@@ -1,0 +1,3 @@
+AI_HAND
+OPP_HAND
+34

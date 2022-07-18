@@ -1,0 +1,5 @@
+OPP_HAND
+IF_CHOKI
+40
+19
+38

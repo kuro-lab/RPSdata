@@ -1,0 +1,7 @@
+AI_HAND
+SUB
+74
+AI_HAND
+REM
+93
+84

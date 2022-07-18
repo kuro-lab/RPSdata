@@ -1,0 +1,3 @@
+OPP_HAND
+AI_HAND
+20

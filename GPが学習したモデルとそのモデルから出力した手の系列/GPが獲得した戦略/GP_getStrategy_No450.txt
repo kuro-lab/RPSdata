@@ -1,0 +1,8 @@
+IF_PAA
+AI_HAND
+MUL
+14
+AI_HAND
+4
+84
+88

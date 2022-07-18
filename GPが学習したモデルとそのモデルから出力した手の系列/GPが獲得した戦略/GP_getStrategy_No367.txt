@@ -1,0 +1,5 @@
+PLUS2
+AI_HAND
+REM
+65
+10

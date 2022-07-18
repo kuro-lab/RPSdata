@@ -1,0 +1,5 @@
+MUL
+AI_HAND
+35
+PLUS1
+1
