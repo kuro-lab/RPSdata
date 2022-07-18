@@ -1,0 +1,9 @@
+ADD
+97
+DIV
+21
+IF_CHOKI
+44
+14
+AI_HAND
+4

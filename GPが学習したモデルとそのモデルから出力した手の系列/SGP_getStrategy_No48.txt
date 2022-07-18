@@ -1,0 +1,5 @@
+MUL
+OPP_HAND
+AI_HAND
+31
+40

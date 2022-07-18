@@ -1,0 +1,9 @@
+DIV
+7
+REM
+PLUS1
+AI_HAND
+REM
+52
+49
+22
