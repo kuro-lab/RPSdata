@@ -1,4 +1,0 @@
-SUB
-40
-OPP_HAND
-18

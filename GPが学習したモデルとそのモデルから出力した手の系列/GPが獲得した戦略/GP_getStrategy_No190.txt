@@ -1,5 +1,0 @@
-PLUS1
-OPP_HAND
-SUB
-32
-8

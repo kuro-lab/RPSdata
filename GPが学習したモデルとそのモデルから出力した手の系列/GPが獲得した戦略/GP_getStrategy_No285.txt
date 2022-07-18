@@ -1,5 +1,0 @@
-OPP_HAND
-IF_GUU
-51
-41
-59

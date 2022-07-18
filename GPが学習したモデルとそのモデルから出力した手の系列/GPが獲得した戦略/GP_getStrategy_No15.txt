@@ -1,5 +1,0 @@
-OPP_HAND
-DIV
-74
-PLUS2
-20

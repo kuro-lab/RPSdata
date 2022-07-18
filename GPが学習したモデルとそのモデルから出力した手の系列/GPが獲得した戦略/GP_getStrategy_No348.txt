@@ -1,7 +1,0 @@
-OPP_HAND
-SUB
-1
-AI_HAND
-DIV
-96
-31

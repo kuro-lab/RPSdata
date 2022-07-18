@@ -1,5 +1,0 @@
-AI_HAND
-SUB
-25
-AI_HAND
-13

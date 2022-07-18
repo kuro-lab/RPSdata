@@ -1,5 +1,0 @@
-IF_CHOKI
-18
-60
-OPP_HAND
-11

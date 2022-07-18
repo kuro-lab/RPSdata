@@ -1,4 +1,0 @@
-SUB
-OPP_HAND
-4
-6
